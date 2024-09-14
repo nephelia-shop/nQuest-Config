@@ -1,0 +1,11 @@
+playSound: true
+playParticle: true
+sendPoup: true
+msg_popup: "§6{quete}§f: +1 xp"
+msg_finish: "§6{joueur} §fvient de terminer la quête §6{quete}"
+
+text-menu: "§6- §fBienvenue sur le menu des quêtes, nombre de quête(s): §6({nombre})\n\n§fQuelle catégorie voulez-vous accéder"
+#button 0 est bouton 1
+button-0: "Quêtes de farm/minage"
+button-1: "Quêtes de kill"
+button-2: "Quêtes de mobs"

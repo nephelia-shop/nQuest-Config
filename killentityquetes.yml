@@ -1,0 +1,18 @@
+"Chasseur de zombie #1\n§aFACILE":
+  count: 10
+  entity: "minecraft:zombie"
+  command: "givemoney {joueur} 5000"
+  image_ui: "textures/items/wood_sword"
+  description: "Tuer 10 zombies pour recevoir une récompense"
+"Chasseur de villageois\n§6MOYEN":
+  count: 8
+  entity: "minecraft:villager"
+  command: "givemoney {joueur} 5000"
+  image_ui: "textures/items/iron_sword"
+  description: "Tuer 10 villageois pour recevoir une récompense"
+"Chasseur de pieuvre\n§cDIFFICILE":
+  count: 6
+  entity: "minecraft:squid"
+  command: "givemoney {joueur} 5000"
+  image_ui: "textures/items/diamond_sword"
+  description: "Tuer 10 pieuvres pour recevoir une récompense"

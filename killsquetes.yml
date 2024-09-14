@@ -1,0 +1,5 @@
+"Tueur #1\n§aFACILE":
+  count: 10
+  command: "givemoney {joueur} 5000"
+  image_ui: "textures/items/wood_sword"
+  description: "Tuer 10 ennemies"

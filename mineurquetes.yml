@@ -1,0 +1,30 @@
+"Diamant #1\n§a( MINEUR )":
+  block_str: "diamond_ore"
+  count: 75
+  description: "§6- §fBienvenue sur la quête §6Diamant #1\n\n§6Objectif§f: casser 75 minerais de §6diamants.\n§6Récompense§f: 1 key §eVip§r\n"
+  command: "key vip 1 {joueur}"
+  image_ui: "textures/items/diamond"
+"Diamant #2\n§a( MINEUR )":
+  block_str: "diamond_ore"
+  count: 250
+  description: "§6- §fBienvenue sur la quête §6Diamant #2\n\n§6Objectif§f: casser 250 minerais de §6diamants.\n§6Récompense§f: 1 key §2Mithril§r\n"
+  command: "key mithril 1 {joueur}"
+  image_ui: "textures/items/diamond"
+"Diamant #3\n§a( MINEUR )":
+  block_str: "diamond_ore"
+  count: 750
+  description: "§6- §fBienvenue sur la quête §6Diamant #3\n\n§6Objectif§f: casser 750 minerais de §6diamants.\n§6Récompense§f: 2 key §2Mithril§r\n"
+  command: "key mithril 2 {joueur}"
+  image_ui: "textures/items/diamond"
+"Diamant #4\n§a( MINEUR )":
+  block_str: "diamond_ore"
+  count: 1500
+  description: "§6- §fBienvenue sur la quête §6Diamant #4\n\n§6Objectif§f: casser 1500 minerais de §6diamants.\n§6Récompense§f: 1 key §dAdamantite §r\n"
+  command: "key adamantite 1 {joueur}"
+  image_ui: "textures/items/diamond"
+"Diamant #5\n§a( MINEUR )":
+  block_str: "diamond_ore"
+  count: 5000
+  description: "§6- §fBienvenue sur la quête §6Diamant #1\n\n§6Objectif§f: casser 5000 minerais de §6diamants.\n§6Récompense§f: 2 key §dAdamantite §r\n"
+  command: "key adamantite 2 {joueur}"
+  image_ui: "textures/items/diamond"
